@@ -1,0 +1,223 @@
+{
+  "site": {
+    "title": "Angela St. Cyr",
+    "tagline": "Recipes & inspiration for a beautifully designed life",
+    "author": "Angela St. Cyr",
+    "logo_image": "images/logo.webp",
+    "intro_image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
+    "about_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&q=80",
+    "about_short": "Angela St. Cyr is a stay at home mom, with two teenage girls and husband, living in one of the most expensive cities in North America (Vancouver, Canada). Angela proves that you can live and design the life you want regardless of budget restraints. Mom, Home Stylist, Blogger, Enthusiastic Cook, a participant on 100mile Challenge, and recently an official Jamie Oliver Food Revolution Ambassador.",
+    "contact_email": "hello@example.com",
+    "pinterest_url": "https://ca.pinterest.com/angelastcyr8444/",
+    "instagram_url": "https://www.instagram.com/angelastcyr"
+  },
+  "recipes": [
+    {
+      "id": "sticky-chile-lime-chicken-salad",
+      "title": "Sticky Chile Lime Chicken Salad",
+      "category": "Food",
+      "tags": ["salad", "dinner", "lunch", "easy", "quick", "healthy", "main dish"],
+      "date": "2024-03-07",
+      "image": "images/StickyChileLimeChickenSalad.jpg",
+      "description": "Sweet, salty, and just enough heat to make your tastebuds hum.",
+      "prep_time": "1 (incl. marinating)",
+      "cook_time": "20 minutes",
+      "servings": "4 servings",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "I LOVE salads!!! It doesn't matter what time of year, give me an interesting salad with a bold mix of flavours and I'm in! This is one of my all time favourites, it's sweet and salty with just enough heat to get your tastebuds humming. This recipe generously serves 4, allowing for 2 chicken thighs per person."
+        },
+        {
+          "type": "heading",
+          "text": "For the chicken & marinade"
+        },
+        {
+          "type": "ingredients",
+          "items": [
+            "8 boneless chicken thighs (skin on or off)",
+            "1/8 cup soy sauce",
+            "1/4 cup olive oil (lime-infused if you can find it)",
+            "1/4 cup rice vinegar",
+            "1 tsp fish sauce",
+            "2 limes (skin cut off)",
+            "2 garlic cloves",
+            "1 thumb-sized piece of ginger",
+            "1 fresh sweet red chile (optional)"
+          ]
+        },
+        {
+          "type": "instructions",
+          "items": [
+            "Pop everything except the chicken into a blender or food processor and pulse until it becomes a smooth sauce.",
+            "Remove 1/4 cup of the sauce and set aside — this will be the base for the salad dressing.",
+            "Pour the remaining sauce over the chicken and marinate for at least an hour, or up to overnight."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "For the salad"
+        },
+        {
+          "type": "paragraph",
+          "text": "While the chicken is marinating, prepare your salad. This is what I like to use, but feel free to swap in anything that suits your taste:"
+        },
+        {
+          "type": "ingredients",
+          "items": [
+            "Mixed baby salad greens",
+            "Iceberg lettuce",
+            "Radish sprouts",
+            "Alfalfa sprouts (garlic blend is lovely)",
+            "Chopped green onions",
+            "Diced red pepper",
+            "Blueberries"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "For the dressing"
+        },
+        {
+          "type": "ingredients",
+          "items": [
+            "1/4 cup of the reserved sauce",
+            "1 tbsp sesame oil",
+            "1 tbsp sweet chile sauce (I like Aroy-D)",
+            "1/4 cup olive oil"
+          ]
+        },
+        {
+          "type": "instructions",
+          "items": [
+            "Whisk everything together in a small bowl.",
+            "Season with salt and pepper if needed.",
+            "Feel free to add a little more oil or rice vinegar to balance the acidity to your taste."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "To cook the chicken"
+        },
+        {
+          "type": "instructions",
+          "items": [
+            "Remove the chicken from the marinade and cook either in a non-stick skillet or on the barbecue.",
+            "Sear one side of the chicken for about 5 minutes.",
+            "Flip it over and drizzle 1 tsp of sweet chile sauce over the seared side of each piece.",
+            "Cook the other side for 5 minutes, then flip again and drizzle another teaspoon of chile sauce over the second side.",
+            "Cook for another few minutes per side until the sauce is sticky and the chicken reads 165°F (75°C) on a meat thermometer."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Place the cooked, sliced chicken onto the prepared salad and drizzle with the dressing. This is guaranteed to become a family favourite!"
+        }
+      ]
+    },
+    {
+      "id": "chocolate-chip-cookies",
+      "title": "The Ultimate Chocolate Chip Cookies",
+      "category": "Food",
+      "tags": ["cookies", "baking", "family-favorite"],
+      "date": "2024-02-15",
+      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=1200&q=80",
+      "description": "My most requested recipe — soft in the middle, crisp on the edges, and packed with chocolate.",
+      "prep_time": "15 minutes",
+      "cook_time": "12 minutes",
+      "servings": "24 cookies",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "These are the cookies I bring to every potluck, every school event, every neighbour's housewarming. The secret is a touch more brown sugar than white, and pulling them out a minute or two before they look fully done — they'll set as they cool."
+        },
+        {
+          "type": "heading",
+          "text": "Ingredients"
+        },
+        {
+          "type": "ingredients",
+          "items": [
+            "1 cup (2 sticks) unsalted butter, softened",
+            "3/4 cup granulated sugar",
+            "3/4 cup packed brown sugar",
+            "2 large eggs",
+            "1 tsp vanilla extract",
+            "2 1/4 cups all-purpose flour",
+            "1 tsp baking soda",
+            "1 tsp salt",
+            "2 cups semi-sweet chocolate chips"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Instructions"
+        },
+        {
+          "type": "instructions",
+          "items": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.",
+            "Beat in eggs one at a time, then stir in vanilla.",
+            "In a separate bowl, whisk together flour, baking soda, and salt. Gradually blend into the wet mixture.",
+            "Fold in chocolate chips.",
+            "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+            "Bake for 10-12 minutes or until golden brown. Let cool on the baking sheet for 2 minutes before transferring."
+          ]
+        }
+      ],
+      "tip": "This can easily be made gluten-free by using a commercially prepared gluten-free flour blend formulated for baking."
+    },
+    {
+      "id": "rustic-tomato-soup",
+      "title": "Rustic Tomato Soup",
+      "category": "Food",
+      "tags": ["soup", "comfort-food", "vegetarian"],
+      "date": "2024-01-10",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&q=80",
+      "description": "A creamy, deeply flavoured tomato soup that tastes like it simmered all day.",
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes",
+      "servings": "4 servings",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "There's nothing more comforting than a bowl of really good tomato soup with a grilled cheese on the side. This version uses canned whole tomatoes (better flavour than diced) and gets blended smooth, with just enough cream to make it silky without being heavy."
+        },
+        {
+          "type": "heading",
+          "text": "Ingredients"
+        },
+        {
+          "type": "ingredients",
+          "items": [
+            "2 tbsp olive oil",
+            "1 yellow onion, diced",
+            "3 cloves garlic, minced",
+            "2 cans (28 oz each) whole peeled tomatoes",
+            "2 cups vegetable broth",
+            "1 tsp sugar",
+            "1/2 cup heavy cream",
+            "Fresh basil, salt, and pepper to taste"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Instructions"
+        },
+        {
+          "type": "instructions",
+          "items": [
+            "Heat olive oil in a large pot over medium heat. Add onion and cook until soft, about 5 minutes.",
+            "Add garlic and cook for 1 minute more.",
+            "Pour in tomatoes (with juices), broth, and sugar. Bring to a simmer.",
+            "Cook uncovered for 20 minutes, stirring occasionally.",
+            "Use an immersion blender to puree the soup until smooth.",
+            "Stir in cream, season with salt and pepper, and garnish with fresh basil."
+          ]
+        }
+      ],
+      "tip": "For an extra rich flavour, roast the tomatoes in the oven before adding them to the pot."
+    }
+  ]
+}
