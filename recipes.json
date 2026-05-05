@@ -156,8 +156,8 @@
   "date": "2022-11-14",
   "image": "images/RoastedButternutSquashSoup.jpg",
   "description": "FOOD This soup just screams fall don't you think?",
-  "prep_time": "45",
-  "cook_time": "20",
+  "prep_time": "45 minutes",
+  "cook_time": "20 minutes",
   "servings": "-",
   "sections": [
     {
@@ -254,6 +254,124 @@
     }
   ],
   "tip": "You could easily pop this into a crock pot on low and just let it simmer away all day. Just remember don't stir in the butter and cream until just before serving.\n\n This can easily be made vegan by simply swapping out the butter with a vegan butter like Earth Balance and using a bouillon cube like Edward & Sons Not- Chick'n"
+},
+{
+  "id": "the-perfect-yorkshires-every-time",
+  "title": "The Perfect Yorkshires Every Time",
+  "category": "Food",
+  "tags": [
+    "dinner",
+    "dinner party",
+    "holiday",
+    "easy",
+    "roast"
+  ],
+  "date": "2022-11-12",
+  "image": "images/the-perfect-yorkshires-every-time.jpg",
+  "description": "FOOD I'm not English so I'm not going to pretend that making Yorkshire Puddings is second nature to me, but I will share with you the few tricks I've learned after many years of making some pretty sub-par Yorkshires.",
+  "prep_time": "-",
+  "cook_time": "-",
+  "servings": "-",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "I could never understand why sometimes they would turn out like rubbery hockey pucks and other times they'd be as close to perfect as you can get when I was always using the same recipe. So over the years I've researched all the tricks that people swore by and with a little experimenting of my own I've come up with a fool proof method for making these finicky little puffs of heaven."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "First off you MUST use very good quality free range eggs. I've tried them with regular grocery store eggs a thousand times and I'm never able to get consistent results. I suppose happy chickens make better quality eggs, so I'm more than willing to pay the extra price for them. Always make sure your eggs are room temperature before making this recipe."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "My second tip is ALWAYS use full fat milk, I'm assuming there is something in the extra fat of the milk that helps these baby's fluff up to epic heights while still allowing them to be light and crisp."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Another tip is to whiz everything up in your blender. The more air you can get into your batter the better. I give them a good whiz to combine all the ingredients thoroughly, let it sit for about 10 minutes or so and then give them another good whiz."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now you're going to hate this tip but let the mixture sit in the fridge overnight or for at least a few hours. This seems to be key for consistently perfect Yorkies. Be sure to bring back to room temperature before cooking and give the mixture another whiz in your blender before filling your tins."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "For my last tip... be sure to get your shortening or pan drippings piping hot before you pour your batter into your tins. You should hear it sizzle as you pour in the batter. If it doesn't sizzle put your tins back in the oven for a little longer."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Now that you have all my tips, here's my recipe"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "4 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3/4c homogenized milk"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 tbsp water"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 tsp salt"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Follow all the tips above...don't skip a single one!"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Preheat oven to 475 degrees once your batter has come back to room temperature."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Drop 1/2 tsp of shortening or pan drippings into each muffin tin... I like to use shortening because it has a very high smoke point and the Yorkshires stay a pretty golden colour. Place the muffin tin in the oven until the shortening is melted and smoking hot. This usually takes at least 5 minutes."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now pour enough batter to fill each tin to 3/4. Pop the tins back in the oven and cook for 15-20 minutes. DO NOT OPEN THE DOOR AT ALL DURING THIS TIME. Turn your oven light on after 15 minutes and check to see if they are risen and perfectly browned. If not leave them alone for another 5 minutes."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "That's it. If you follow each of these steps you'll have perfect Yorkshires every time!"
+      ]
+    }
+  ]
 }
   ]
 }
