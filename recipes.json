@@ -116,110 +116,6 @@
       ]
     },
     {
-      "id": "chocolate-chip-cookies",
-      "title": "The Ultimate Chocolate Chip Cookies",
-      "category": "Food",
-      "tags": ["cookies", "baking", "family-favorite"],
-      "date": "2024-02-15",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=1200&q=80",
-      "description": "My most requested recipe — soft in the middle, crisp on the edges, and packed with chocolate.",
-      "prep_time": "15 minutes",
-      "cook_time": "12 minutes",
-      "servings": "24 cookies",
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "These are the cookies I bring to every potluck, every school event, every neighbour's housewarming. The secret is a touch more brown sugar than white, and pulling them out a minute or two before they look fully done — they'll set as they cool."
-        },
-        {
-          "type": "heading",
-          "text": "Ingredients"
-        },
-        {
-          "type": "ingredients",
-          "items": [
-            "1 cup (2 sticks) unsalted butter, softened",
-            "3/4 cup granulated sugar",
-            "3/4 cup packed brown sugar",
-            "2 large eggs",
-            "1 tsp vanilla extract",
-            "2 1/4 cups all-purpose flour",
-            "1 tsp baking soda",
-            "1 tsp salt",
-            "2 cups semi-sweet chocolate chips"
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Instructions"
-        },
-        {
-          "type": "instructions",
-          "items": [
-            "Preheat oven to 375°F (190°C).",
-            "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.",
-            "Beat in eggs one at a time, then stir in vanilla.",
-            "In a separate bowl, whisk together flour, baking soda, and salt. Gradually blend into the wet mixture.",
-            "Fold in chocolate chips.",
-            "Drop rounded tablespoons of dough onto ungreased baking sheets.",
-            "Bake for 10-12 minutes or until golden brown. Let cool on the baking sheet for 2 minutes before transferring."
-          ]
-        }
-      ],
-      "tip": "This can easily be made gluten-free by using a commercially prepared gluten-free flour blend formulated for baking."
-    },
-    {
-      "id": "rustic-tomato-soup",
-      "title": "Rustic Tomato Soup",
-      "category": "Food",
-      "tags": ["soup", "comfort-food", "vegetarian"],
-      "date": "2024-01-10",
-      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&q=80",
-      "description": "A creamy, deeply flavoured tomato soup that tastes like it simmered all day.",
-      "prep_time": "10 minutes",
-      "cook_time": "30 minutes",
-      "servings": "4 servings",
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "There's nothing more comforting than a bowl of really good tomato soup with a grilled cheese on the side. This version uses canned whole tomatoes (better flavour than diced) and gets blended smooth, with just enough cream to make it silky without being heavy."
-        },
-        {
-          "type": "heading",
-          "text": "Ingredients"
-        },
-        {
-          "type": "ingredients",
-          "items": [
-            "2 tbsp olive oil",
-            "1 yellow onion, diced",
-            "3 cloves garlic, minced",
-            "2 cans (28 oz each) whole peeled tomatoes",
-            "2 cups vegetable broth",
-            "1 tsp sugar",
-            "1/2 cup heavy cream",
-            "Fresh basil, salt, and pepper to taste"
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Instructions"
-        },
-        {
-          "type": "instructions",
-          "items": [
-            "Heat olive oil in a large pot over medium heat. Add onion and cook until soft, about 5 minutes.",
-            "Add garlic and cook for 1 minute more.",
-            "Pour in tomatoes (with juices), broth, and sugar. Bring to a simmer.",
-            "Cook uncovered for 20 minutes, stirring occasionally.",
-            "Use an immersion blender to puree the soup until smooth.",
-            "Stir in cream, season with salt and pepper, and garnish with fresh basil."
-          ]
-        }
-      ],
-      "tip": "For an extra rich flavour, roast the tomatoes in the oven before adding them to the pot."
-    },
-    {
       "id": "Petit-Pots-Yogurt",
       "title": "Petit Pots Yogurt",
       "category": "Beautiful Things",
@@ -236,6 +132,128 @@
           "text": "One of my fave easy, healthy breakfasts. "
         }
       ]
+    },
+    {
+  "id": "roasted-butternut-squash-soup",
+  "title": "Roasted Butternut Squash Soup",
+  "category": "Food",
+  "tags": [
+    "soup",
+    "dinner",
+    "lunch",
+    "easy",
+    "hearty",
+    "fall food",
+    "fall",
+    "supper",
+    "make ahead",
+    "simple",
+    "crock pot",
+    "vegan",
+    "vegetarian",
+    "thanksgiving"
+  ],
+  "date": "2022-11-14",
+  "image": "images/RoastedButternutSquashSoup.jpg",
+  "description": "FOOD This soup just screams fall don't you think?",
+  "prep_time": "45",
+  "cook_time": "20",
+  "servings": "-",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "FOOD This soup just screams fall don't you think? It's rich, creamy and hearty enough to keep you satisfied and warm all day. Best of all, this soup gets better and better as it sits so it's the perfect make ahead meal if you've got a busy week."
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 large butternut squash"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 small onion (peeled and rough chopped)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "5c chicken stock"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 garlic clove"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 sprig fresh rosemary (stem removed)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c white wine"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c 18% cream (coffee cream)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tbsp butter"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "salt and pepper to taste"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "pinch fresh grated nutmeg"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Preheat your oven to 350 degrees."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Cut the squash in half and scoop out the seeds. Sprinkle with salt and pepper and drizzle with olive oil. Place it on a parchment lined cookie sheet cut side down and bake for 45 minutes or until fork tender. Once the squash is soft, remove from the oven and let cool."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now all I do is scoop out half of the cooked squash and put it in the blender with the onion, garlic, rosemary and half of the chicken stock. Give it a whiz. Once it's silky smooth I pour it into a medium sized pot on medium low heat. Repeat with the remaining squash and stock."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Once all your pureed squash is in the pot simply stir in the wine and simmer for at least 20 minutes or you can simmer it on low heat for several hours if you'd like."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Turn the heat off and just before serving stir in the remaining ingredients. Season with salt pepper and nutmeg."
+      ]
     }
+  ],
+  "tip": "You could easily pop this into a crock pot on low and just let it simmer away all day. Just remember don't stir in the butter and cream until just before serving.\n\n This can easily be made vegan by simply swapping out the butter with a vegan butter like Earth Balance and using a bouillon cube like Edward & Sons Not- Chick'n"
+}
   ]
 }
