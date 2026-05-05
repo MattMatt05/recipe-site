@@ -218,6 +218,24 @@
         }
       ],
       "tip": "For an extra rich flavour, roast the tomatoes in the oven before adding them to the pot."
+    },
+    {
+      "id": "Petit-Pots-Yogurt",
+      "title": "Petit Pots Yogurt",
+      "category": "Beautiful Things",
+      "tags": ["salad", "breakfast", "healthy"],
+      "date": "2024-03-07",
+      "image": "images/PetitPotsYogurt.jpg",
+      "description": "",
+      "prep_time": "-",
+      "cook_time": "-",
+      "servings": "-",
+      "sections": [
+        {
+          "type": "heading",
+          "text": "One of my fave easy, healthy breakfasts. "
+        }
+      ]
     }
   ]
 }
