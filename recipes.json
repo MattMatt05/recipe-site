@@ -1021,7 +1021,7 @@
     "quick"
   ],
   "date": "2026-05-05",
-  "image": "/images/muffin-of-the-month-gingerbread.webp",
+  "image": "images/muffin-of-the-month-gingerbread.webp",
   "description": "Christmas for me is synonymous with Gingerbread, so naturally Decembers MUFFIN OF THE MONTH just had to be gingerbread!",
   "servings": "12",
   "sections": [
@@ -1160,7 +1160,7 @@
     "Quick"
   ],
   "date": "2026-05-05",
-  "image": "/images/banana-bread.jpeg",
+  "image": "images/banana-bread.jpeg",
   "description": "This is one of my family’s faves! Quick, easy and so delicious.",
   "sections": [
     {
@@ -1277,7 +1277,7 @@
     "dinner"
   ],
   "date": "2026-05-05",
-  "image": "/images/sushi-kind-of.jpeg",
+  "image": "images/sushi-kind-of.jpeg",
   "description": "In the mood for sushi, but maybe you don't want to spend money eating out? Or perhaps you don't like all the mess when making it yourself? Well I have the best recipe ever!!!!",
   "sections": [
     {
@@ -1382,7 +1382,7 @@
     "quick"
   ],
   "date": "2026-05-05",
-  "image": "/images/russian-rye-breakfast-myfitnesspal-com.jpg",
+  "image": "images/russian-rye-breakfast-myfitnesspal-com.jpg",
   "description": "",
   "sections": [
     {
@@ -1453,7 +1453,7 @@
     "quick"
   ],
   "date": "2026-05-05",
-  "image": "/images/gluten-free-chicken-chow-mein-myfitnesspal-com.jpg",
+  "image": "images/gluten-free-chicken-chow-mein-myfitnesspal-com.jpg",
   "description": "",
   "sections": [
     {
@@ -1619,7 +1619,7 @@
     "healthy"
   ],
   "date": "2026-05-05",
-  "image": "/images/vanilla-pear-protein-oats-myfitnesspal-com.jpg",
+  "image": "images/vanilla-pear-protein-oats-myfitnesspal-com.jpg",
   "description": "",
   "sections": [
     {
@@ -1805,7 +1805,7 @@
     "chocolatechip"
   ],
   "date": "2026-05-05",
-  "image": "/images/muffin-of-the-month-banana-nut-with-chocolate-chips-myfitnesspal-com.jpg",
+  "image": "images/muffin-of-the-month-banana-nut-with-chocolate-chips-myfitnesspal-com.jpg",
   "description": "January’s MUFFIN OF THE MONTH just had to be this one.",
   "servings": "12",
   "sections": [
@@ -1920,7 +1920,7 @@
     "healthy"
   ],
   "date": "2026-05-05",
-  "image": "/images/garlic-sesame-veggies-myfitnesspal-com.webp",
+  "image": "images/garlic-sesame-veggies-myfitnesspal-com.webp",
   "description": "This has to be my favourite healthy treat! I'm loving these so much I find myself making them regularly as  a quick snack ...minus the pineapple bowl of course!",
   "sections": [
     {
@@ -1997,6 +1997,117 @@
     }
   ],
   "tip": "If you'd like to make a pineapple bowl simply cut a pineapple in half and carefully cut out the centre...easy peasy and oh so cute."
+},
+{
+  "id": "dark-chocolate-lava-cake-in-less-than-5-minutes",
+  "title": "Dark Chocolate Lava Cake in Less Than 5 Minutes",
+  "category": "Food",
+  "tags": [
+    "appetizer",
+    "veggies",
+    "snack",
+    "heathy",
+    "easy",
+    "quick",
+    "summer",
+    "appie",
+    "healthy"
+  ],
+  "date": "2026-05-05",
+  "image": "images/dark-chocolate-lava-cake-in-less-than-5-minutes.webp",
+  "description": "What’s a girl to do when she’s craving dessert but doesn’t have anything sweet in the house? And to make matters worse I have one kid that’s gluten intolerant and another that can’t have dairy!",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Well, they say necessity is the mother of invention and this recipe was created because of exactly that lol. This literally takes me less than five minutes to make from start to finish and I can either make it as a single serving by dividing the recipe by four or I can make 4 servings using the recipe as is and it still only takes 5 minutes…including cooking time! This recipe can be made either gluten free, dairy free or both if necessary. If you don’t have any allergies to consider…go ahead and make this with regular flour and dairy. This really is THE best dessert recipe for a tricky crowd. Are you ready? Here we go…."
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "6 tbs coco powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c milk"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "4 eggs — room temperature"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c melted coconut oil"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 tsp vanilla extract"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "4 thick squares of dark chocolate"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "If you’re making this gluten free use a gluten free flour blend, Robin Hood makes a pretty good one and it’s easy to use because it’s already pre-blended. For a dairy free version use a dairy free milk, really any you have on hand will work well in this recipe. Also make sure the chocolate you use is dairy free as well."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Simply mix the dry ingredients together in a bowl and give a quick whisk. Now stir in the wet ingredients and mix until well combined and lump free. Divide equal portions into 4 mason jars or mugs."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now press a square of chocolate into the centre of each mason jar and then microwave on high for a minute or two. Each microwave is different so keep an eye on it. You want the outside of the cake to look cooked but the centre still to be a bit runny, it will firm up slightly as it cools."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "I like to serve this with a scoop of ice cream, some chocolate or caramel drizzle…or both lol…and a few toasted nuts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Enjoy!"
+    },
+    {
+      "type": "paragraph",
+      "text": "* I have to put a little thank you here acknowledging the lovely Miss Tori. It was her that introduced me to the wonders of lava cake cooked in the microwave and she changed my life in an instant lol. My recipe is quite different than the one I tried at her house…in order to accommodate for allergies, but if it wasn’t for her I would never have come up with this. So thank you Tori ❤️"
+    }
+  ]
 }
   ]
 }
