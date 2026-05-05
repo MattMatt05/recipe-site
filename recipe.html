@@ -174,6 +174,7 @@ function renderRecipe(r, s, others) {
 // { type: "heading", text: "..." }
 // { type: "ingredients", items: [...] }
 // { type: "instructions", items: [...] }
+// { type: "image", src: "...", caption: "...", alt: "..." }
 function renderSections(sections, recipe) {
   // Backwards compatibility: if no sections array but legacy ingredients/instructions exist, build a default one
   if ((!sections || !sections.length) && (recipe.ingredients || recipe.instructions)) {
@@ -208,6 +209,16 @@ function renderSections(sections, recipe) {
         return `<li data-step="${stepCounter}">${escapeHtml(i)}</li>`;
       }).join('');
       return `<ol class="instructions-list">${items}</ol>`;
+    }
+    if (section.type === 'image') {
+      const src = escapeAttr(section.src || '');
+      const alt = escapeAttr(section.alt || section.caption || 'Recipe image');
+      const caption = section.caption ? `<figcaption class="post-inline-image-caption">${escapeHtml(section.caption)}</figcaption>` : '';
+      const sizeClass = section.size === 'small' ? ' size-small' : (section.size === 'wide' ? ' size-wide' : '');
+      return `<figure class="post-inline-image${sizeClass}">
+        <img src="${src}" alt="${alt}" loading="lazy">
+        ${caption}
+      </figure>`;
     }
     return '';
   }).join('');

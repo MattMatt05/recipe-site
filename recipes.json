@@ -269,7 +269,7 @@
   ],
   "date": "2022-11-12",
   "image": "images/the-perfect-yorkshires-every-time.jpg",
-  "description": "FOOD I'm not English so I'm not going to pretend that making Yorkshire Puddings is second nature to me, but I will share with you the few tricks I've learned after many years of making some pretty sub-par Yorkshires.",
+  "description": "I'm not English so I'm not going to pretend that making Yorkshire Puddings is second nature to me, but I will share with you the few tricks I've learned after many years of making some pretty sub-par Yorkshires.",
   "prep_time": "-",
   "cook_time": "-",
   "servings": "-",
@@ -373,6 +373,1630 @@
       ]
     }
   ]
+},
+{
+  "id": "muffin-of-the-month-strawberry-rhubarb-crumble",
+  "title": "MUFFIN OF THE MONTH - Strawberry Rhubarb Crumble",
+  "category": "Food",
+  "tags": [
+    "gluten free",
+    "spring",
+    "may",
+    "easy",
+    "quick",
+    "breakfast",
+    "snack",
+    "healthy",
+    "lowfat"
+  ],
+  "date": "2026-05-05",
+  "image": "images/muffin-of-the-month-strawberry-rhubarb-crumble.jpg",
+  "description": "It finally feels like spring!!! Any of you living in Vancouver will understand the joy I'm feeling at this moment. It's been a long grey, wet, cold winter and frankly I'm thrilled to see it come to an end.",
+  "prep_time": "-",
+  "cook_time": "-",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "This months MUFFIN OF THE MONTH is a celebration of all things spring. I can't help myself, I always get a little excited when I see local rhubarb and strawberries at the market! It's a sure sign that warmer weather is finally on it's way. Go ahead and give these a try...they are a little taste of the sunshine that will soon be here to stay."
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 stalks of rhubarb (diced)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*see rhubarb tip below"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "6 large strawberries (diced)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "grating of fresh nutmeg"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c orange juice"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbs vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c butter (melted)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Crumble Topping-"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c brown sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/8tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/8tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tbsp butter (melted)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "pinch of salt"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Toss everything together and give it a good stir. Set aside until you've filled your muffin cups."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375 degrees."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a large bowl combine the dry ingredients and stir in the diced rhubarb and strawberries. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients. Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large icecream scoop)"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now simply sprinkle an even portion of crumb topping on each muffin and then pop them in the oven for for 20-25 minutes or until slightly golden."
+      ]
+    }
+  ],
+  "tip": "This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend. You can also make this vegan easily by using an egg replacer.\n\nIf you prefer your rhubarb less tart simply sprinkle the diced rhubarb with some sugar and let it sit for a few minutes before adding it into the dry mix."
+},
+{
+  "id": "muffin-of-the-month-marshmallow-hot-chocolate",
+  "title": "MUFFIN OF THE MONTH- Marshmallow Hot Chocolate",
+  "category": "Food",
+  "tags": [
+    "breakfast",
+    "snack",
+    "quick",
+    "easy",
+    "glutenfree",
+    "dessert",
+    "brunch"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/muffin-of-the-month-marshmallow-hot-chocolate.jpg",
+  "description": "Well it's December and I'm feeling festive and perhaps a little naughty. Don't tell Santa!",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Normally my muffins are very healthy, they tend to have little to no added fat, low sugar...bla bla bla. Not this time my friends, it's Christmas so I'm going all out. Fat, sugar and all things yummy! No, these aren't cupcakes, they're still muffins with all their dense moist yumminess, but they are a treat so PLEASE don't eat these every morning for breakfast even though you may want to lol. Merry Christmas everyone. xox"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3/4c hot chocolate powder"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(or 5 packets)"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3tbsp cocoa powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c chocolate chips"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2c buttermilk or water"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c melted butter or vegetable oil"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c mini marshmallows"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "icing sugar for garnish"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "* You'll notice I haven't added any sugar. No, it's not a typo...I found the Hot chocolate powder had just the right amount so I decided to delete it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients. Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Line your muffin tins with tulip muffin cups about 3/4 full (I use a large icecream scoop) when the muffins have about 2 or 3 minutes left carefully place a few mini-marshmallows on each muffin. If you hold each one down for a second or two the heat will help melt them in place. Once the marshmallows are on each muffin put them back in the oven until done.",
+        "Once the muffins are completely cooled sprinkle with a dusting of icing sugar."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Bake for 20-25 minutes or until slightly golden."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+    },
+    {
+      "type": "paragraph",
+      "text": "** If you prefer a darker chocolate add 2tbs of cocoa powder and 2tbsp of additional sugar to the dry ingredients"
+    }
+  ],
+  "tip": "This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend."
+},
+{
+  "id": "chocolate-pecan-pie",
+  "title": "Chocolate Pecan Pie",
+  "category": "Food",
+  "tags": [
+    "dessert",
+    "nuts",
+    "pastry",
+    "chocolate",
+    "thanksgiving"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/chocolate-pecan-pie.jpg",
+  "description": "",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "This is probably my families favourite dessert! Toasting the pecans prior to baking the pie adds such richness and depth while helping to cut the sweetness of the chocolate. My daughter used to HATE pecan pie because she didn't like the jelly-like filling that formed around the pecans. The chocolate cuts down on that immensely, so now she loves Pecan Pie...well mine at least lol. If you try only one pie recipe in your life, this should be it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375 degrees."
+    },
+    {
+      "type": "heading",
+      "text": "For the crust"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/3c cold butter or shortening cut into cubes"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2-4tbsp ice cold water"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "TIP- If you use half butter and half shortening you'll get the perfect flakiness while still being tender and full of buttery flavour. It's a little more work but it's worth the effort in my opinion."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Pop everything except the water into the bowl of  your stand mixer. Mix on medium speed until the butter pieces are the size of small peas."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now add 2tbsp of the cold water over the flour mixture and turn the mixer on low speed for a second. If all the flour is moistened and the pastry leaves the side of the bowl then you are finished. It's very important not to over-mix at this point or your crust will be tough. If your pastry isn't coming together yet add another tablespoon or so of water to the mixture and give it another stir. Take a bit of the pastry out and squeeze it. ...if it holds together it's ready, if not add a tiny bit more water and give it a gentle stir."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir2.webp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove the dough from the mixer, knead it a couple of times and shape it into a flattened round and wrap in plastic wrap. Allow it to chill in the fridge for about 30 minutes. This will make it easier to work with."
+    },
+    {
+      "type": "image",
+      "src": "/images/stir3.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Remove the dough from the fridge and unwrap it. Place the dough on a lightly floured surface. Using a rolling pin roll the pastry into a circle that's about 2\" larger than your pie plate."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir4.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Fold the pastry into fourths and place in the pie plate. Unfold the dough and shift into place. Trim any excess pastry so it's 1\" bigger than the rim of the pie plate."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir5.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Fold and roll the edge of the pastry under and flute the edges simply by pinching with your fingers. Prick the crust all over with a fork, it will help the steam escape while baking."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir6.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Set aside until the filling is ready."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Filling"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2/3c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/3c butter (melted)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c Rogers Golden syrup or corn syrup"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 1/2c pecan halves (toasted)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c dark chocolate chips"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Pop everything except the pecans and the chocolate chips into a large bowl and give it a good whisk. Now stir in the toasted pecans and the chocolate chips."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Pour the filling into your prepared pie crust and cover the edge with a 3\" strip of foil to prevent excess browning."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/stir7.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Bake for approximately one hour minutes, removing the foil for the last 15 minutes. You'll know it's ready when it looks all puffy and no longer seems liquid when you give the pan a wiggle. Remove from oven and let it cool for at least  an hour before serving."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "I like to serve this with a dollop of vanilla whipped cream. Enjoy!"
+      ]
+    }
+  ],
+  "tip": "I toast my pecans in the oven as soon as it's preheated... just until they become fragrant. It usually takes about 10 minutes or so."
+},
+{
+  "id": "muffin-of-the-month-eggnog-cranberry",
+  "title": "MUFFIN OF THE MONTH - Eggnog Cranberry",
+  "category": "Food",
+  "tags": [],
+  "date": "2026-05-05",
+  "image": "images/muffin-of-the-month-eggnog-cranberry.jpg",
+  "description": "Christmas time for me is all about eggnog, so needless to say these are a staple in our house at this time of year.",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "I hope they become one of your families Christmas traditions too. They make a quick breakfast or a healthy snack. I make them so often I can do it with my eyes closed! I even sometimes prep the dry and wet ingredients the night before...stir them together in the morning and pop them in the oven to bake while I'm showering. Easy Peasy!"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "pinch fresh ground nutmeg"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c fresh or frozen cranberries"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2- 1/4c eggnog"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c melted butter"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients. Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large icecream scoop) and bake for 20-25 minutes or until slightly golden."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "- This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend. You can also make this vegan easily by using an egg replacer. There is also vegan eggnog and vegan butter available."
+      ]
+    }
+  ],
+  "tip": "If I happen to have crystalline sugar in the house I'll sprinkle a bit on the of the muffins before baking. They really look quite festive that way!"
+},
+{
+  "id": "muffin-of-the-month-gingerbread",
+  "title": "MUFFIN OF THE MONTH- Gingerbread",
+  "category": "Food",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "dairy free",
+    "snack",
+    "breakfast",
+    "brunch",
+    "easy",
+    "quick"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/muffin-of-the-month-gingerbread.webp",
+  "description": "Christmas for me is synonymous with Gingerbread, so naturally Decembers MUFFIN OF THE MONTH just had to be gingerbread!",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "These muffins are packed with all the flavour of your favourite gingerbread cookie with substantially less calories and far less work. They make a quick breakfast, healthy snack or the perfect little Christmas treat to share with everyone at work…and they’re so much faster than making cookies! I make them so often I can do it with my eyes closed! I even sometimes prep the dry and wet ingredients the night before...stir them together in the morning and pop them in the oven to bake while I'm showering. Easy Peasy!"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c brown sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp ground ginger"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp cloves"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c milk (nut milk works too!)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/3c molasses"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c canned pumpkin"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c melted butter or oil"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "icing sugar for garnish"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "* I find molasses is one of those ingredients that people have strong opinions on lol. So if you LOVE it like I do, use it as per the recipe. If you find the flavour overpowering you can easily drop it down to 1/4c or even somewhere in between."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large icecream scoop) and bake for 20-25 minutes or until slightly golden."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    }
+  ],
+  "tip": "This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend and I add an extra egg so they still rise to epic heights lol. You can also make this vegan easily by using an egg replacer."
+},
+{
+  "id": "banana-bread",
+  "title": "Banana Bread",
+  "category": "Food",
+  "tags": [
+    "Easy",
+    "dairy free",
+    "dessert",
+    "breakfast",
+    "Quick"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/banana-bread.jpeg",
+  "description": "This is one of my family’s faves! Quick, easy and so delicious.",
+  "sections": [
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c Flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c Sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp Baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp Baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp Salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3 Large mashed bananas"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 Eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c Oil"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp Vanilla"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Water"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "**The amount of water you need is dependent on the size and ripeness of your bananas so rather than having a set amount of water I add just enough water to make a thick batter."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "This recipe couldn’t be easier! Simply pop all the dry ingredients into a large mixing bowl and give it a whisk."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Then add the wet ingredients and add a splash of water. Give everything a good stir… if it’s too thick add more water, if it’s the consistency of a thick cake batter then you’re  done."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Pour the mixture into a greased loaf pan and bake at 350 degrees F for about an hour or until a toothpick come out clean."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Let cool in the pan for about 15 minutes before tipping it out onto a cooling rack."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Enjoy!"
+    }
+  ],
+  "tip": "I pop my whole peeled bananas into a ziplock bag then toss all the other wet ingredients into it. Squish it all up until the banana is mashed and the eggs are incorporated. Then I simply squeeze it into my dry ingredients and give it a good stir. Adjust the water as needed. Easy peasy!"
+},
+{
+  "id": "sushi-kind-of",
+  "title": "Sushi...kind of",
+  "category": "Food",
+  "tags": [
+    "tuna",
+    "spicy",
+    "quick",
+    "easy",
+    "sushi",
+    "seaweed",
+    "roasted seaweed",
+    "rice",
+    "sticky rice",
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/sushi-kind-of.jpeg",
+  "description": "In the mood for sushi, but maybe you don't want to spend money eating out? Or perhaps you don't like all the mess when making it yourself? Well I have the best recipe ever!!!!",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "I started making this at home when we used to have Korean home-stay children living with us. It's quick, easy, inexpensive and if I do say so myself, really delicious. All you need is a few packs of roasted seaweed (I get them at my produce market) some sticky rice...or even regular rice that you cook with too much water so it goes sticky. Who would of thought there was a use for improperly cooked rice LOL! Just a few other ingredients and you're done. Quick and easy homemade sushi...who would have thought? See the full recipe below:"
+    },
+    {
+      "type": "paragraph",
+      "text": "several packs                 roasted seaweed"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2c cooked sticky rice"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 tin tuna (drained)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4 red pepper (finely diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 spring onion (finely sliced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbp sesame oil and sesame seeds"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 clove of garlic (crushed)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 small piece of ginger (crushed)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp soy sauce"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbp hot sauce (optional)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 small handful of chopped cilantro"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Set the seaweed and rice aside."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Mix all the other ingredients together in a bowl and stir."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "To serve just let everyone make their own sushi rolls. Simply pick up a sheet of seaweed, add a spoonful of rice, then some tuna and fold in half like a taco. That's it just keep eating them as you make them. It's really a fun social way to eat... my kids love these when they have friends over!"
+      ]
+    }
+  ]
+},
+{
+  "id": "russian-rye-breakfast-myfitnesspal-com",
+  "title": "Russian Rye Breakfast MYFITNESSPAL.com",
+  "category": "Food",
+  "tags": [
+    "MyFitnessPal",
+    "myfitnesspal.com",
+    "my fitness pal",
+    "breakfast",
+    "brunch",
+    "easy",
+    "quick"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/russian-rye-breakfast-myfitnesspal-com.jpg",
+  "description": "",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "This is more of an ingredient list than a recipe…so here goes:"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 serving at 400 calories per serving."
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 fried egg"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 sliced roma tomato"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 an avocado (smashed)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 slices of dark Russian Rye bread"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "a few slivers of sweet white onion"
+    },
+    {
+      "type": "paragraph",
+      "text": "chopped fresh parsley"
+    },
+    {
+      "type": "paragraph",
+      "text": "a drizzle of balsamic glaze (trader Joes)"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Assemble as in the featured picture. If your calories and nutrients allow, feel free to add a second egg. This is one of my FAVOURITE breakfasts!"
+      ]
+    }
+  ]
+},
+{
+  "id": "gluten-free-chicken-chow-mein-myfitnesspal-com",
+  "title": "Gluten-Free Chicken Chow Mein MYFITNESSPAL.com",
+  "category": "Food",
+  "tags": [
+    "MyFitnessPal",
+    "myfitnesspal.com",
+    "my fitness pal",
+    "breakfast",
+    "brunch",
+    "easy",
+    "quick"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/gluten-free-chicken-chow-mein-myfitnesspal-com.jpg",
+  "description": "",
+  "sections": [
+    {
+      "type": "ingredients",
+      "items": [
+        "8 servings at 358 calories per serving."
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 456gm package Rice Stick Noodles(T&T)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2c chicken bone broth"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 boneless skinless chicken thighs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tbsp soy sauce(rooster)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 tsp chilli garlic sauce(LeeKumKee)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp fresh grated ginger"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp sesame oil(PC)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c celery (diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c red/green peppers(diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c onion(diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "12 baby carrots(diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c snap peas(diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c frozen peas"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 stalk green onion(sliced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp roasted sesame seeds(Marukai)"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Get a large pot of water and bring it to a boil, this will be for cooking the noodles."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now in a small pot pop in the next 10 ingredients and cook covered over medium heat for about 10 minutes or until the chicken thigh is fully cooked. Turn off the heat, remove the chicken breast and dice it up into a similar size as your vegetables and then return it to the pot."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "By now the water for the noodles should be boiling so throw the noodles into the pot and cook according to package directions. Once cooked drain them and rinse well with fresh warm water and return the rinsed drained noodles to the pot."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "At this point toss the snap peas and the frozen peas into the warm broth mixture and give it a stir. This allows the peas to slightly cook while staying bright green and crisp."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Pour the broth mixture on top of the prepared rice noodles and stir well to combine."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Garnish with thinly sliced green onions and sesame seeds."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "This dish it fantastic warm, but dare I say it’s even better cold! So it’s the perfect make ahead recipe…have it fresh for dinner and then eat it cold as a quick and easy lunch. I eat a single serving for my meal but my husband eats a double quantity and then adjusts his carb intake accordingly for the rest of his meals."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*You are welcome to use whatever brands you’d like, I’ve just added brand names to ensure the calorie counts are the same. I’ve discovered the calories can vary wildly from brand to brand for the exact same items."
+      ]
+    }
+  ]
+},
+{
+  "id": "vanilla-pear-protein-oats-myfitnesspal-com",
+  "title": "Vanilla Pear Protein Oats MYFITNESSPAL.com",
+  "category": "Food",
+  "tags": [
+    "my fitness pal",
+    "myfitnesspal",
+    "myfitnesspal.com",
+    "diet",
+    "eatingplan",
+    "breakfast",
+    "oatmeal",
+    "quick",
+    "eating plan",
+    "healthy"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/vanilla-pear-protein-oats-myfitnesspal-com.jpg",
+  "description": "",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "I’ve been using the MYFITNESSPAL app for some time now and was only getting pretty depressing results because  my weight was going up and down like a yo-yo. I had only been paying attention the the calories portion and assumed this less than stellar weight loss was because of my age and my inability to do any cardio other than slow walking. At my daughters insistence last week, I started concentrating on the Macros, Nutrients and the Calories portion of the app and I can’t believe the difference…I lost 5.9lbs in one week!!!!!!! I have 28lbs to loose so that’s a phenomenal start and it was substantial enough to keep me encouraged and wanting to learn new recipes and meal plans to keep me on track. I realize most people find this too time consuming in addition to the rest of the things they have to fit into their busy daily routines but I  ABSOLUTELY LOVE doing this kind of thing. So I thought it would be helpful to share my recipes and meal plans with those of you that either don’t have to time or don’t enjoy doing this sort of thing. We all have our strengths so there is no judgement on my part…I’m thrilled to be able to share this with all of you."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "This recipe is the first MYFITNESSPAL inspired recipe I’ve added to my website, so this section will grow organically over time. I’ll also be sure to share my weight-loss successes and failures with you along the way. It feels so strange for me to be writing about an eating plan to help you loose weight because I absolutely abhor fad diets. I especially hate hearing people talk about them! In all fairness though this is the first time I’ve ever had to actively try to loose weight and it isn’t easy!!!! I’ve always been relatively the same weight and have been very balanced in my eating habits and the amount of daily exercise I get so I’ve never really had to think about it before…not even after I had kids! I left the hospital wearing the clothes I wore before I got pregnant. Feel free to roll your eyes lol."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You’re probably thinking what the hell happened all of a sudden that started tipping the scale in the wrong direction! Well I got sick…VERY sick! Long story short I took an antibiotic that has a very rare side effect called Intra Cranial Hypertention which is your body producing too much cerebral spinal fluid which then puts pressure on your brain. The symptoms mimic those of a brain tumour which was VERY scary especially because I have 2 very dear friends that passed away from having brain tumours. After every test known to man and almost a year of seeing several specialists they are 99% sure that is what has happened…it will be confirmed in April after a lumbar puncture…insert scared face here 😳"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "On top of the hell that I’ve been through it’s also had the added bonus of me not being able to exercise or exert myself at all…for several months I could barely even get off the sofa without my brain feeling like it was going to explode. I went from consistently walking between 15,000-20,000 steps a day to 200 steps a day for a 3 month period and now have been able to gradually increase since then. I’m mostly better now but I still can’t do any type of cardio except slow walking, anything more and my head pressure starts up again and I’m out of commission for days."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "So that’s my story in a nutshell, feel free to share your stories, weight-loss successes and struggles in the comment section…it’s always nice to feel like we aren’t alone in this."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Here’s the recipe…and I promise the future recipes will not have a long write up before you can get to the recipe. That’s my biggest pet peeve on most food blogs!!!!! xox"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 serving- 349 calories"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c oatmeal"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 scoop PURE PALEO VANILLA PROTEIN"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp chia seed"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "water to your desired consistency"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Stir everything together and cook on medium low for 5 minutes or so."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PEAR TOPPING"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 small pear (diced)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp brown sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp cinnamon"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "small grating of fresh nutmeg"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Toss everything in a small pot with a splash of water and cook until you’ve reached your desired tenderness."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/crazywoodpig.webp"
+    },
+    {
+      "type": "paragraph",
+      "text": "This the the protein powder that I like but you can use any brand you’d like just make sure you enter your brand into the myfitnesspal.com app so it can adjust the nutrients for you."
+    }
+  ]
+},
+{
+  "id": "dark-chocolate-chocolate-chip-cookies",
+  "title": "Dark Chocolate Chocolate Chip Cookies",
+  "category": "Food",
+  "tags": [
+    "dessert",
+    "cookie",
+    "chocolate",
+    "easy",
+    "fast",
+    "quick",
+    "christmas"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/dark-chocolate-chocolate-chip-cookies.jpg",
+  "description": "What’s more decadent than a Dark Chocolate Chip Cookie?",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "These are moist yet crisp, dark and delicious! If you’re feeling extra naughty try making them into ice-cream sandwiches…they are TO DIE FOR."
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 lb butter (softened)",
+        "1 1/4c brown sugar",
+        "1 1/4c sugar",
+        "3 eggs",
+        "2tsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3c flour or GF flour blend",
+        "1tsp salt",
+        "5tbsp cocoa powder",
+        "1tsp baking soda",
+        "2c dark chocolate chips"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 350. Cream the margarine and then gradually add the 2 sugars, beating until light and smooth. Then add the egg and the vanilla. In a separate bowl sift together the first 4 dry ingredients and add them to the first mixture, blend well. Gently mix in the chocolate chips."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now for my secret...cover the bowl and let it chill in the fridge for about an hour or until slightly firm. This really makes a huge difference in the thickness of the cookie so it’s worth the time! There’s nothing I hate more than cookies that are as flat as pancakes.",
+        "When chilled use your ice cream scoop to measure equal amounts of the dough onto a cookie sheet lined with parchment paper. Bake for approximately 12 minutes or until lightly browned and the edges look crisp."
+      ]
+    }
+  ],
+  "tip": "This can easily be made gluten-free by using my gluten-free flour blend or any commercially prepared gluten-free flour blend formulated for baking."
+},
+{
+  "id": "muffin-of-the-month-banana-nut-with-chocolate-chips-myfitnesspal-com",
+  "title": "MUFFIN OF THE MONTH - Banana Nut with Chocolate Chips MYFITNESSPAL.com",
+  "category": "Food",
+  "tags": [
+    "easy",
+    "breakfast",
+    "snack",
+    "quick",
+    "brunch",
+    "muffin",
+    "banana",
+    "nut",
+    "chocolatechip"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/muffin-of-the-month-banana-nut-with-chocolate-chips-myfitnesspal-com.jpg",
+  "description": "January’s MUFFIN OF THE MONTH just had to be this one.",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "2019 is the year I stop putting myself last on my list…self care is where it’s at for me this year and sometimes that means treating yourself! This is one of my favourite flavour combos! Unfortunately I can’t make them very often because my eldest daughter is VERY allergic to walnuts…but now that she lives on campus at her University I’m able to make them more often. I haven’t decided yet if that’s a good thing or a bad thing lol.  I sometimes prep the dry and wet ingredients the night before...stir them together in the morning and pop them in the oven to bake while I'm showering. Easy Peasy!"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "12 servings at 156 calories per serving."
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 sugar (optional)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c milk (nut milk works too!)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3 mashed bananas (1 cup)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c chocolate chips"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c chopped walnuts"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375 degrees"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients. Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large ice-cream scoop) I   like to sprinkle some walnuts on the top of each muffin…they look pretty that way!"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Bake for 20-25 minutes or until slightly golden."
+      ]
+    }
+  ],
+  "tip": "This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend. You can also make this vegan easily by using an egg replacer."
+},
+{
+  "id": "garlic-sesame-veggies-myfitnesspal-com",
+  "title": "Garlic Sesame Veggies MYFITNESSPAL.com",
+  "category": "Food",
+  "tags": [
+    "appetizer",
+    "veggies",
+    "snack",
+    "heathy",
+    "easy",
+    "quick",
+    "summer",
+    "appie",
+    "healthy"
+  ],
+  "date": "2026-05-05",
+  "image": "/images/garlic-sesame-veggies-myfitnesspal-com.webp",
+  "description": "This has to be my favourite healthy treat! I'm loving these so much I find myself making them regularly as  a quick snack ...minus the pineapple bowl of course!",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "The bowl sure makes an impressive presentation if you serve these as an appetizer though."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "So this isn't really a recipe, it's more of a flavour combo so I'll just list the ingredients and you just use everything in amounts that suit your flavour preferences…unless you need the MYFITNESSPAL version.  If you aren't one that likes hot chillies do try this anyway, the chilli sauce is really more flavourful than hot."
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "4 servings at 50 calories per serving"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 bag snap peas"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 red peppers (slivered)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 can baby corn (drained)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "For the dressing"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp sesame oil"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp black sesame seeds"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp soy sauce"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp Chili garlic sauce"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Toss everything together in a bowl. That's it you're done!!!! If you’d like to serve these as a side dish you can stir fry them or just warm them up in the microwave.  ENJOY."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/garlicstuff.webp"
+    }
+  ],
+  "tip": "If you'd like to make a pineapple bowl simply cut a pineapple in half and carefully cut out the centre...easy peasy and oh so cute."
 }
   ]
 }
