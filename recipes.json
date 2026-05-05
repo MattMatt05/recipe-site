@@ -569,7 +569,7 @@
     "brunch"
   ],
   "date": "2026-05-05",
-  "image": "/images/muffin-of-the-month-marshmallow-hot-chocolate.jpg",
+  "image": "images/muffin-of-the-month-marshmallow-hot-chocolate.jpg",
   "description": "Well it's December and I'm feeling festive and perhaps a little naughty. Don't tell Santa!",
   "servings": "12",
   "sections": [
@@ -703,7 +703,7 @@
     "thanksgiving"
   ],
   "date": "2026-05-05",
-  "image": "/images/chocolate-pecan-pie.jpg",
+  "image": "images/chocolate-pecan-pie.jpg",
   "description": "",
   "sections": [
     {
@@ -756,7 +756,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir.webp"
+      "src": "images/stir.webp"
     },
     {
       "type": "instructions",
@@ -766,7 +766,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir2.webp"
+      "src": "images/stir2.webp"
     },
     {
       "type": "paragraph",
@@ -774,7 +774,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir3.webp"
+      "src": "images/stir3.webp"
     },
     {
       "type": "instructions",
@@ -784,7 +784,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir4.webp"
+      "src": "images/stir4.webp"
     },
     {
       "type": "instructions",
@@ -794,7 +794,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir5.webp"
+      "src": "images/stir5.webp"
     },
     {
       "type": "instructions",
@@ -804,7 +804,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir6.webp"
+      "src": "images/stir6.webp"
     },
     {
       "type": "instructions",
@@ -878,7 +878,7 @@
     },
     {
       "type": "image",
-      "src": "/images/stir7.webp"
+      "src": "images/stir7.webp"
     },
     {
       "type": "instructions",
@@ -1726,7 +1726,7 @@
     },
     {
       "type": "image",
-      "src": "/images/crazywoodpig.webp"
+      "src": "images/crazywoodpig.webp"
     },
     {
       "type": "paragraph",
@@ -1748,7 +1748,7 @@
     "christmas"
   ],
   "date": "2026-05-05",
-  "image": "/images/dark-chocolate-chocolate-chip-cookies.jpg",
+  "image": "images/dark-chocolate-chocolate-chip-cookies.jpg",
   "description": "What’s more decadent than a Dark Chocolate Chip Cookie?",
   "sections": [
     {
@@ -1993,7 +1993,7 @@
     },
     {
       "type": "image",
-      "src": "/images/garlicstuff.webp"
+      "src": "images/garlicstuff.webp"
     }
   ],
   "tip": "If you'd like to make a pineapple bowl simply cut a pineapple in half and carefully cut out the centre...easy peasy and oh so cute."
