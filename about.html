@@ -48,7 +48,7 @@
 <main class="about-main">
   <div class="about-layout">
     <div class="about-image">
-      <img id="aboutImage" src="" alt="Portrait">
+      <img id="aboutImagenew" src="images/about.jpeg" alt="Portrait">
     </div>
 
     <div class="about-text">
@@ -129,7 +129,6 @@
 fetch('recipes.json').then(r => r.json()).then(data => {
   const s = data.site || {};
   applySiteInfo(s);
-  if (s.intro_image) document.getElementById('aboutImage').src = s.intro_image;
   if (s.author) document.getElementById('signatureName').textContent = s.author;
 });
 </script>
