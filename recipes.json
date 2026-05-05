@@ -3624,6 +3624,491 @@
       ]
     }
   ]
+},
+{
+  "id": "muffin-of-the-month-exotic-pear",
+  "title": "MUFFIN OF THE MONTH- Exotic Pear",
+  "category": "Food",
+  "tags": [
+    "easy",
+    "quick",
+    "breakfast",
+    "snack",
+    "star anise",
+    "cardamom",
+    "cinnamon",
+    "baking",
+    "brunch",
+    "vegan",
+    "vegetarian"
+  ],
+  "date": "2026-05-05",
+  "image": "images/muffin-of-the-month-exotic-pear.webp",
+  "description": "November's muffin of the month is filled with the exotic flavours of warm far away places... cardamom, star anise and cinnamon mingle perfectly with one of our local favourites, the pear.",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "This special muffin has all the warm rich flavours you crave at this chilly time of year. Enjoy!"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 1/2c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2/3c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "12 cardamom pods (seeds only)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c canned coconut milk"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 398ml canned pear halves in juice"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 star anise"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "12 cardamom pods"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tbs melted butter"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375 degrees."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "**Rough chop the first 12 cardamom pods in order to release the seeds. Discard the pods and add the loose chopped seeds to your dry mixture."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. Set aside."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a small pot combine the coconut milk , butter, canned pear halves and juice, star anise, remaining 12 cardamom pods (whole) and vanilla. Simmer on low heat for about 20minutes. Set aside and let cool to room temperature. Now remove the star anise and the 12 pods of cardamom. Slightly crush the pears into bite sized pieces with the back of a fork."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a separate bowl beat the eggs until frothy, then add the cooled simmered pears along with all the cooking liquid."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large icecream scoop) and bake for 20-25 minutes or until slightly golden."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    }
+  ],
+  "tip": "I like to garnish the muffin tops with some crystalline sugar, a slice of fresh pair and a star anise before popping them in the oven. This recipe is easily made gluten free by simply swapping out the flour with a gluten free version such as Robin Hood or my favourite flour blend. You can also make this vegan easily by using an egg replacer and using EARTH BALANCE or oil instead of butter."
+},
+{
+  "id": "witches-finger-cookies",
+  "title": "Witches Finger Cookies",
+  "category": "Food",
+  "tags": [
+    "scary",
+    "creepy",
+    "cookie",
+    "witch",
+    "witches finger",
+    "finger",
+    "halloween",
+    "fun"
+  ],
+  "date": "2026-05-05",
+  "image": "images/witches-finger-cookies.webp",
+  "description": "",
+  "sections": [
+    {
+      "type": "ingredients",
+      "items": [
+        "1c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2/3c butter (softened)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2tsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2c or 3c flour (you'll understand when you read the recipe)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "12 almond slices (or pumpkin seeds)"
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "* cinnamon powder for brushing on the knuckles."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Optional bones"
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "24 mini white marshmallows"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Optional blood"
+    },
+    {
+      "type": "paragraph",
+      "text": "red icing ( 1/4 cup icing sugar and a bit of butter) or red jam to hold the marshmallow \"bones\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375 degrees"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Put sugar and butter in a mixing bowl and mix it with a wooden spoon until it is smooth and creamy."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Now add the eggs, vanilla, salt, baking powder, and mix really well."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "To your wet mixture add a cup or so of flour, and mix."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "If the dough is sticky, keep adding flour a 1/2 cup at a time until it is not sticky, and you can roll it in your hands easily."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Put some flour on your counter top and put a piece of parchment paper on your cookie sheet."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail1.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Take a heaping teaspoon of dough and roll it in your hands to make a small \"snake\"."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail2.webp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make a dent for the knuckle. Make a dent for the knuckle."
+    },
+    {
+      "type": "image",
+      "src": "images/nail3.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Make a smaller dent for the nail bed."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail4.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Using a butter knife make a few lines above the nail bed and below the knuckle."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail5.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Insert an almond sliver into the nail bed."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail6.webp"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*Remember these swell up a lot so make sure its about half the size you want the finished cookie to be."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bake 375degrees for 10-12 minutes (don't burn them)"
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Let cool and brush some cinnamon on the knuckles."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "You can also use a dot of red icing on the back of the finger to glue on a marshmallow bone if you'd like."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "If you want them to look extra creepy dust a little cinnamon on them and dust it off with a clean small paint brush."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/nail7.webp"
+    }
+  ]
+},
+{
+  "id": "muffin-of-the-month-pumpkin-cranberry-bran",
+  "title": "MUFFIN OF THE MONTH- Pumpkin Cranberry Bran",
+  "category": "Food",
+  "tags": [
+    "thanksgiving",
+    "fall",
+    "breakfast",
+    "snack",
+    "quick",
+    "easy",
+    "healthy"
+  ],
+  "date": "2026-05-05",
+  "image": "images/muffin-of-the-month-pumpkin-cranberry-bran.webp",
+  "description": "As soon as October's fall weather hits all I can think about is creating recipes using pumpkin and squash.",
+  "servings": "12",
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "This one is my favourite so far though! It's an unusual combination of seasonal foods but trust me it's absolutely DIVINE...moist and rich. These aren't your grandmas dry bran muffins lol. Give them a try, I have no doubt they'll become your families favourite breakfast or snack item this fall."
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 1/2c bran"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c flour"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "3/4c sugar"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 tsp baking powder"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1tsp baking soda"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 tsp salt"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2 tsp cinnamon"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 1/2c fresh or frozen cranberries"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2 eggs"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/2c milk (nut milk works too!)"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1 tbsp vanilla"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1/4c molasses"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "1c pumpkin (canned works great!)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 375."
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "In a large bowl combine the dry ingredients. In a separate bowl beat the eggs until frothy, then add the remaining wet ingredients. Add the wet ingredients to the dry and stir just enough to moisten. Too much mixing makes a tuff muffin. Fill lined muffin cups 3/4 full (I use a large icecream scoop) and bake for 20-25 minutes or until slightly golden."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "*If for some reason your muffin mix seems a little dry and stiff feel free to stir in a splash more liquid. Conversley if it ends up a little wet, add a sprinkle more flour. We've always been told baking is an exact science and for many recipes it is, but...I'll never post a recipe like that! All my recipes allow room for a little creative licence and a few corrective measures. So forget what momma always told you lol!"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Garnish with crystalline sugar and salted toasted pumpkin seeds if you'd like"
+    }
+  ]
 }
   ]
 }
