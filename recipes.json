@@ -2197,6 +2197,58 @@
       ]
     }
   ]
+},
+{
+  "id": "passion-tea-lemonade",
+  "title": "Passion Tea Lemonade",
+  "category": "Food",
+  "tags": [
+    "starbucks",
+    "healthy",
+    "refreshing",
+    "juice",
+    "iced tea",
+    "drink",
+    "cold",
+    "vegan",
+    "vegetarian"
+  ],
+  "date": "2026-05-05",
+  "image": "images/passion-tea-lemonade.webp",
+  "description": "",
+  "sections": [
+    {
+      "type": "ingredients",
+      "items": [
+        "500mls boiling water"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "4 hibiscus tea bags"
+      ]
+    },
+    {
+      "type": "ingredients",
+      "items": [
+        "2scoops country time lemonade powder..."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "Simply add the 4 teabags to the boing water and steep until the water is room temperature. Remove tea bags and stir in lemonade powder. Refrigerate until cold."
+      ]
+    },
+    {
+      "type": "instructions",
+      "items": [
+        "If you mix this with some vodka or gin it make an amazing martini!"
+      ]
+    }
+  ],
+  "tip": "Instead of the lemon-aid powder you can use the juice of 4 lemons and sugar to taste."
 }
   ]
 }
