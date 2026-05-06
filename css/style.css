@@ -1878,3 +1878,44 @@ img { max-width: 100%; display: block; }
   .slideshow-btn.next { right: 8px; }
   .slideshow-caption { padding: 12px 50px; font-size: 13px; }
 }
+/* ===== Prevent horizontal overflow from wide slideshows/images ===== */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+/* Defensive: never let slideshows or inline images extend past their container */
+.slideshow,
+.post-inline-image {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.slideshow img,
+.post-inline-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* On tablet and smaller, kill the negative-margin "wide" effect entirely */
+@media (max-width: 900px) {
+  .slideshow.size-wide,
+  .post-inline-image.size-wide {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+  }
+
+  /* Make sure post body padding doesn't get overwhelmed */
+  .post-body {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+/* Also constrain the post content column itself */
+.post-content {
+  max-width: 100%;
+  min-width: 0;
+  overflow-wrap: break-word;
+}
