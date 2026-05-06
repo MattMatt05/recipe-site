@@ -95,7 +95,6 @@ fetch('recipes.json')
 
     document.title = recipe.title + ' — ' + (s.title || 'Beautiful Things');
 
-    // Get other recent posts (excluding current), newest 3
     const others = recipes
       .filter(r => r.id !== recipe.id)
       .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
@@ -169,14 +168,14 @@ function renderRecipe(r, s, others) {
   `;
 }
 
-// Render the flexible sections array — each section is one of:
+// Render flexible sections — each is one of:
 // { type: "paragraph", text: "..." }
 // { type: "heading", text: "..." }
 // { type: "ingredients", items: [...] }
 // { type: "instructions", items: [...] }
-// { type: "image", src: "...", caption: "...", alt: "..." }
+// { type: "image", src: "...", caption: "...", alt: "...", size: "normal|small|wide" }
+// { type: "slideshow", photos: [{ src, caption, alt }, ...], size: "normal|small|wide" }
 function renderSections(sections, recipe) {
-  // Backwards compatibility: if no sections array but legacy ingredients/instructions exist, build a default one
   if ((!sections || !sections.length) && (recipe.ingredients || recipe.instructions)) {
     sections = [];
     if (recipe.ingredients && recipe.ingredients.length) {
@@ -189,8 +188,8 @@ function renderSections(sections, recipe) {
     }
   }
 
-  // Track instruction step numbers globally across all instruction blocks
   let stepCounter = 0;
+  let slideshowCounter = 0;
 
   return sections.map(section => {
     if (section.type === 'paragraph') {
@@ -220,9 +219,71 @@ function renderSections(sections, recipe) {
         ${caption}
       </figure>`;
     }
+    if (section.type === 'slideshow') {
+      const photos = section.photos || [];
+      if (photos.length === 0) return '';
+      const ssId = 'ss-' + (slideshowCounter++);
+      const sizeClass = section.size === 'wide' ? ' size-wide' : (section.size === 'small' ? ' size-small' : '');
+
+      const slidesHtml = photos.map((p, i) => {
+        const src = escapeAttr(p.src || '');
+        const alt = escapeAttr(p.alt || p.caption || `Slide ${i + 1}`);
+        const cap = p.caption ? `<figcaption class="slideshow-caption">${escapeHtml(p.caption)}</figcaption>` : '';
+        return `<figure class="slideshow-slide${i === 0 ? ' active' : ''}" data-idx="${i}">
+          <img src="${src}" alt="${alt}" loading="${i === 0 ? 'eager' : 'lazy'}">
+          ${cap}
+        </figure>`;
+      }).join('');
+
+      const dotsHtml = photos.map((_, i) =>
+        `<button class="slideshow-dot${i === 0 ? ' active' : ''}" data-idx="${i}" onclick="goToSlide('${ssId}', ${i})" aria-label="Go to slide ${i + 1}"></button>`
+      ).join('');
+
+      return `<div class="slideshow${sizeClass}" id="${ssId}" data-current="0" data-count="${photos.length}">
+        <div class="slideshow-frame">
+          ${slidesHtml}
+          <button class="slideshow-btn prev" onclick="navSlide('${ssId}', -1)" aria-label="Previous slide">‹</button>
+          <button class="slideshow-btn next" onclick="navSlide('${ssId}', 1)" aria-label="Next slide">›</button>
+          <div class="slideshow-counter"><span class="cur">1</span> / ${photos.length}</div>
+        </div>
+        <div class="slideshow-dots">${dotsHtml}</div>
+      </div>`;
+    }
     return '';
   }).join('');
 }
+
+// Slideshow navigation
+function navSlide(id, dir) {
+  const ss = document.getElementById(id);
+  if (!ss) return;
+  const count = parseInt(ss.dataset.count, 10);
+  const cur = parseInt(ss.dataset.current, 10);
+  const next = (cur + dir + count) % count;
+  goToSlide(id, next);
+}
+
+function goToSlide(id, idx) {
+  const ss = document.getElementById(id);
+  if (!ss) return;
+  ss.dataset.current = idx;
+  ss.querySelectorAll('.slideshow-slide').forEach(el => {
+    el.classList.toggle('active', parseInt(el.dataset.idx, 10) === idx);
+  });
+  ss.querySelectorAll('.slideshow-dot').forEach(el => {
+    el.classList.toggle('active', parseInt(el.dataset.idx, 10) === idx);
+  });
+  const counter = ss.querySelector('.slideshow-counter .cur');
+  if (counter) counter.textContent = idx + 1;
+}
+
+// Keyboard nav when slideshow is hovered
+document.addEventListener('keydown', e => {
+  if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+  const hovered = document.querySelector('.slideshow:hover');
+  if (!hovered) return;
+  navSlide(hovered.id, e.key === 'ArrowRight' ? 1 : -1);
+});
 </script>
 
 </body>
